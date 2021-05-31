@@ -1,8 +1,7 @@
 <div align="center">
 <h2>Hello<img src="Hi.gif" width=30px alt="Hi_GIF"> I am <small>A M A R J E E T</small></a></h2>
 </div>
-🎓Electronic Engineering Sophomore at IIT (BHU) ,Varanasi.
- <br>
+🎓Electronics Engineering Sophomore at IIT (BHU) ,Varanasi.
  <br>
  
  ###  🐱My Github stats:
