@@ -1,11 +1,17 @@
 <div align="center">
 <h2>Hello<img src="Hi.gif" width=30px alt="Hi_GIF"> I am <small>A M A R J E E T</small></a></h2>
 </div>
+🎓Electronic Engineering Sophomore at IIT (BHU) ,Varanasi.
+ <br>
+ <br>
+ 
+ ###  🐱My Github stats:
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=amarkeshri28&show_icons=true&theme=tokyonight"alt="Github stats" width=45%>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=amarkeshri28&theme=tokyonight" alt="Streak" width=45%>
     <br>
 </div>
+
 <hr><div align="center">
     	<h4>My Skills</h4>
     	<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
