@@ -1,5 +1,5 @@
 <div align="center">
-<h2>Hello<img src="Hi.gif" width=30px alt="Hi_GIF"><small>A M A R J E E T</small></a></h2>
+<h2>Hello<img src="Hi.gif" width=30px alt="Hi_GIF">I am <small>A M A R J E E T</small></a></h2>
 </div>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=amarkeshri28&show_icons=true&theme=tokyonight"alt="Github stats" width=45%>
